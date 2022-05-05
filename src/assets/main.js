@@ -1,9 +1,9 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from './/components/Home.vue'
-import About from './/components/About.vue'
-import Page2 from './/components/Page2.vue'
-import App from './App.vue'
+import Home from '../components/Home.vue'
+import About from '../components/About.vue'
+import Page2 from '../components/page2.vue'
+import App from '../components/App.vue'
 const router = createRouter( {
     history : createWebHistory(),
     routes: [
