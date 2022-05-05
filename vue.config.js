@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/TFEOK/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/TFEOK.github.io/" : "/",
 };
